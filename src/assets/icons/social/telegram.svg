@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg id="basic_stroke_svg" version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="34.000000pt" height="28.000000pt" viewBox="0 0 34.000000 28.000000"
+ preserveAspectRatio="xMidYMid meet"
+ fill="#000000" stroke="none">
+
+<g transform="translate(0.000000,28.000000) scale(0.100000,-0.100000)"
+>
+<path d="M158 217 c-76 -29 -142 -57 -149 -63 -8 -9 0 -15 33 -26 38 -13 45
+-20 61 -64 10 -27 20 -51 23 -53 2 -2 14 5 27 17 29 28 33 28 74 -4 20 -15 38
+-22 43 -18 9 9 60 221 60 248 0 24 -23 19 -172 -37z"/>
+</g>
+</svg>
